@@ -1,3 +1,3 @@
-# Squadro
-## Co-Authors: Lara Gama Santos, Marcela Camarano Caram
+#Squadro
+##Co-Authors: Lara Gama Santos, Marcela Camarano Caram
 Squadro game developed as a Programming Languages assignement. How to play: click on a piece to you move it a distance based on the strength indicated in the trough that you're leaving. Once the piece has made its way across the board, you move it back based on the strength on the other side. If you pass over an opposing piece while moving, then that opposing piece must return to its last departing base and your moving piece advances one cell further than where the opposing piece was. To win, you need to be the first player to make a return trip with four of your pieces. Have fun!
